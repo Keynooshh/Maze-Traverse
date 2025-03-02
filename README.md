@@ -21,7 +21,7 @@ To run this project, you need to have Python installed on your system. You can d
 
 1. Clone the repository:
    ```bash
-   https://github.com/Keynooshh/Maze-Traverse.git
+   git clone https://github.com/Keynooshh/Maze-Traverse.git
    ```
 2. Navigate to the project directory:
    ```bash
