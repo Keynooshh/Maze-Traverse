@@ -21,11 +21,11 @@ To run this project, you need to have Python installed on your system. You can d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/maze-traversal-project.git
+   https://github.com/Keynooshh/Maze-Traverse.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd maze-traversal-project
+   cd Maze-Traverse
    ```
 3. Install the required dependencies (if any):
    ```bash
@@ -67,4 +67,4 @@ The maze generation process involves the following steps:
 
 ---
 
-If you have any questions or need further assistance, please don't hesitate to ask!
+If you have any questions, please don't hesitate to ask!
